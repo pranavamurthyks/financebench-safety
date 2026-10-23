@@ -9,4 +9,10 @@ dependencies = [
     "ipykernel>=7.4.0",
     "jupyterlab>=4.6.4",
     "pandas>=3.0.6",
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
 ]
