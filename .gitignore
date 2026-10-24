@@ -14,3 +14,5 @@ wheels/
 
 # Environment variables / API keys
 .env
+
+.~lock.*#
