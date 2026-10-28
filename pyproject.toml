@@ -9,4 +9,5 @@ dependencies = [
     "ipykernel>=7.4.0",
     "jupyterlab>=4.6.4",
     "pandas>=3.0.6",
+    "sentence-transformers>=6.2.0",
 ]
